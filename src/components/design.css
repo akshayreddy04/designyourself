@@ -1,0 +1,29 @@
+.hoodie{
+    position: absolute;
+    top: 22em;
+    left: 14em;
+    width: 150px;
+    height: 150px;
+}
+.tshirt{
+    position: absolute;
+    top: 22em;
+    left: 14em;
+    width: 150px;
+    height: 150px;
+}
+.cup{
+    position: absolute;
+    top: 22em;
+    left: 17em;
+    width: 150px;
+    height: 250px;
+}
+.bags{
+    position: absolute;
+    top: 25em;
+    left: 10em;
+    width: 200px;
+    height: 200px;
+    rotate: 5deg;
+}

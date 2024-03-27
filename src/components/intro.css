@@ -1,0 +1,22 @@
+.main{
+    width: 92.5em;
+    height: 800px;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+h1.welcome{
+    margin:0px;
+    padding-top: 100px;
+    padding-left: 30px;
+    font-size: 110px !important;
+    color: white !important;
+}
+span.fashion{
+    color: black;
+}
+
+p.paragraph{
+    padding-left: 30px;
+    padding-top: 20px;
+}

@@ -1,0 +1,10 @@
+
+.hello{
+color: black !important;
+}
+.imagess{
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    left: 18.5em;
+}
